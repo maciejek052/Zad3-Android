@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="rtl">Ride the Lightning to drugi studyjny album zespolu Metallica</string>
+    <string name="mustaine">Liderem zespołu Megadeth jest Dave Mustaine</string>
+    <string name="cure">Zespół The Cure powstał w Nowym Jorku</string>
+    <string name="radiohead">Zespół Radiohead rozpadł się w 2012 roku</string>
+    <string name="mbv">Zespół My Bloody Valentine jest jednym z głównych przedstawicieli shoegazu</string>
+    <string name="correct_answer">Poprawna odpowiedź!</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź!</string>
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
+</resources>
